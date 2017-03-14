@@ -1,2 +1,7 @@
-﻿我们在学习中进步
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+﻿我们在学习中进步12
+Creating a new branch is quick AND simple.
+=======
+﻿我们在学习中进步12
+Creating a new branch is quick AND simple.
+>>>>>>> feature
